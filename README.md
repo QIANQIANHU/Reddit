@@ -2,7 +2,7 @@
 
 ####  The application assists users...
 
-#### By Qianqian Hu, Ainur Dzhaianbaeva, Angelo Russoniello,
+#### By Jahmanz Savojah, Miranda Keith, Qianqian Hu, Ainur Dzhaianbaeva, Angelo Russoniello,
 
 #### Date 04 March 2018
 
@@ -30,16 +30,17 @@ The user selects from four (4) groups of photos the resultant submission forms a
 ## Support and contact details
 
 Contact email:
-
+  savojah@yahoo.com;
+  Miranda.Keith42@gmail.com;
   huqianqian@ymail.com;
   adjayanbaeva@gmail.com;
   angelorussoniello88@gmail.com
 
 ### License **_{MIT License}_**_
 
-Copyright (c) 2018 **qh, ad, fh, bt, an, ar**
+Copyright (c) 2018 **js, mk, qh, ad, ar**
 
-Copyright (c) 2018 **_{Alexander Neumann, Qianqian Hu, Ainur Dzhaianbaeva, Faiza Husain, Angelo Russoniello, Brittany Thirtyacre}_**Permission is hereby granted, free of charge, to any person obtaining_
+Copyright (c) 2018 **_{Jahmanz Savojah, Miranda Keith, Qianqian Hu, Ainur Dzhaianbaeva, Angelo Russoniello}_**Permission is hereby granted, free of charge, to any person obtaining_
 a copy of this software and associated documentation files (the "Software"), to deal in the Software without_
 restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,_
 and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the_
